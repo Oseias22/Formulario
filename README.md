@@ -1,2 +1,2 @@
 # Formulario
-Irei criar um formulário completo com html, css e JavaScript.
+Irei criar um formulário com html e css
