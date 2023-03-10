@@ -14,13 +14,8 @@ body {
 }
 
 .container {
-    background-color: #fafafa;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     width: 400px;
-    max-width: 100%;
-    overflow: hidden;
-    filter: drop-shadow(8px 8px 4px);
+    padding-right: 13px;
 }
 
 .header {
@@ -66,4 +61,17 @@ body {
 
 .form-control.error input {
     border-color: #e74c3c;
+}
+
+button,
+div {
+    color: rgb(9, 12, 12);
+    cursor: pointer;
+    box-shadow: 1px 1px 6px rgb(14, 15, 15);
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
 }
